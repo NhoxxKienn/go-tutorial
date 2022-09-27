@@ -7,8 +7,6 @@ import (
 	"example.com/greetings"
 )
 
-var pl = fmt.Println
-
 func main() {
 	// Set properties of the predefined Logger, including
 	// the log entry prefix and a flag to disable printing
